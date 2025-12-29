@@ -40,4 +40,16 @@ A cross-platform mobile application built with **Flutter**, designed to help use
 5. Run the app in the terminal:
 
 ```bash
-flutter run
+flutter run 
+```
+
+Note: Tested on "generic medium_phone" running Android 16.0 ("Baklava")
+
+## 📸 Screenshots
+<!-- Add screenshots here --> <!-- <img width="XXX" alt="Light Mode" src="assets/light_mode.png" /> <img width="XXX" alt="Dark Mode" src="assets/dark_mode.png" /> <img width="XXX" alt="Drag-and-Drop" src="assets/drag_drop.png" /> -->
+
+---
+
+## 🧠 Design Philosophy
+The app was built with user efficiency and clarity in mind. Drag-and-drop reordering and a clean interface make it easy for users to manage tasks quickly, while light/dark mode ensures usability in different environments.
+
