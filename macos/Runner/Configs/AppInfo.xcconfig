@@ -1,0 +1,28 @@
+// Application-level settings for the Runner target.
+//
+// This may be replaced with something auto-generated from metadata (e.g., pubspec.yaml) in the
+// future. If not, the values below would default to using the project name when this becomes a
+// 'flutter create' template.
+
+// The application's name. By default this is also the title of the Flutter window.
+PRODUCT_NAME = prosjekt_oving
+
+// The application's bundle identifier
+PRODUCT_BUNDLE_IDENTIFIER = com.example.prosjektOving
+
+// The copyright displayed in application information
+PRODUCT_COPYRIGHT = Copyright © 2025 com.example. All rights reserved.
+
+// CocoaPods integration: include the Pods generated xcconfigs so CocoaPods-managed
+// build settings are applied to the Runner target. This mirrors the default
+// Flutter macOS template behavior when projects use custom xcconfig files.
+// The relative path points from this file (macos/Runner/Configs) to the
+// generated Pod configuration files under macos/Pods/Target Support Files.
+// If you later move this file, adjust the relative paths accordingly.
+//
+// Include each configuration's Pods xcconfig
+// (these files are created by `pod install`)
+//
+#include "../../Pods/Target Support Files/Pods-Runner/Pods-Runner.debug.xcconfig"
+#include "../../Pods/Target Support Files/Pods-Runner/Pods-Runner.profile.xcconfig"
+#include "../../Pods/Target Support Files/Pods-Runner/Pods-Runner.release.xcconfig"
