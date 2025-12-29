@@ -1,37 +1,43 @@
-# Fast Grocery/To-Do List App (Flutter)
+# Fast Grocery / To-Do List App 📱
 
-This project is a cross-platform mobile application developed using **Flutter**.
-## ✨ Features
+A cross-platform mobile application built with **Flutter**, designed to help users efficiently manage shopping lists and tasks. The app emphasizes **intuitive UI**, **drag-and-drop interaction**, and **light/dark mode** support.
 
-The List application contains the following features:
-
-* Adding and deleting lists.
-* Adding and deleting list items.
-* Manually **reordering** list items with a long press (Drag-and-Drop).
-* Switching between **Light Mode** and **Dark Mode**.
+> ⚠️ This repository is a personal project developed as a showcase of Flutter, state management, and UX-focused mobile design.
 
 ---
 
-## 🚀 How to Test the Solution on an Android Emulator
+## 🧩 My Contribution
+- Developed the app frontend using Flutter and Dart  
+- Implemented **add/delete lists and items** functionality  
+- Designed and implemented **manual item reordering** (drag-and-drop)  
+- Added **Light Mode / Dark Mode** toggle  
+- Focused on **smooth interactions, accessibility, and clean UI**
 
-Follow these steps to set up your environment and run the application on a virtual Android device.
+---
 
-1.  Make sure you have installed **Flutter SDK** on your computer: [Download](https://docs.flutter.dev/get-started)
-2.  Download the project locally on your machine and open it with **Android Studio**: [Download](https://developer.android.com/studio)
-3. Check that the Flutter Plugin is downloaded in Android Studio.
+## ✨ Key Features
+- Create and delete lists  
+- Add and remove items from lists  
+- Reorder items via long press (drag-and-drop)  
+- Switch between Light Mode and Dark Mode  
+- Intuitive, mobile-first design
 
-### 📱 Emulator Setup
+---
 
-1. In Android Studio, navigate to the **Device Manager** located on the right edge of the screen.
-2. Create a new device or run an existing one from the list. *Note: The application was developed and tested on a "generic medium_phone" running with Android 16.0 ("Baklava")*
-3. Start the emulator by clicking the play icon next to the device in the list.
+## 🛠️ Tech Stack
+- Flutter  
+- Dart  
+- Provider (or your state management solution if used)  
+- Android / iOS compatible  
 
-![Start Emulator](assets/start_emulator.png)
+---
 
-### ▶️ Running the Project
-
-1. Open your terminal and navigate to the project's root directory.
-2. Run the project with the command:
+## ▶️ Run the App
+1. Install **Flutter SDK**: [Flutter Docs](https://docs.flutter.dev/get-started)  
+2. Open the project in **Android Studio**: [Download Android Studio](https://developer.android.com/studio)  
+3. Ensure Flutter plugin is installed  
+4. Launch an **Android Emulator** or connect a physical device  
+5. Run the app in the terminal:
 
 ```bash
 flutter run
